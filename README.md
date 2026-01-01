@@ -28,7 +28,7 @@ JavaScript – Interactive elements and dynamic content
 
 📸 Screenshots
 
-<img width="100%" height="13448" alt="homepage-min" src="https://github.com/user-attachments/assets/f0f4a570-d4fe-4e97-9841-887e7c8ebb22" />
+<img width="100%" height="auto" alt="homepage-min" src="https://github.com/user-attachments/assets/f0f4a570-d4fe-4e97-9841-887e7c8ebb22" />
 
 
 ⚡ How to Use
