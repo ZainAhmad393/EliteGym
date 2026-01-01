@@ -27,7 +27,8 @@ CSS3 – Styling, layout, and animations
 JavaScript – Interactive elements and dynamic content
 
 📸 Screenshots
-![HomePage]/screenshots/homepage.png
+
+<img width="2480" height="13448" alt="homepage-min" src="https://github.com/user-attachments/assets/f0f4a570-d4fe-4e97-9841-887e7c8ebb22" />
 
 
 ⚡ How to Use
